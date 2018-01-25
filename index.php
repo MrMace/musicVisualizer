@@ -18,7 +18,7 @@
 </head>
 <body>
 
-
+<div class="container">
 <audio id="audio" src="" autoplay loop></audio>
 
 <canvas id="visualizer"></canvas>
@@ -26,7 +26,7 @@
 <div id="controls">
     <img src="icons/pause.png">
 </div>
-
+</div>
 
 <script src="js.js"><</script>
 </body>
