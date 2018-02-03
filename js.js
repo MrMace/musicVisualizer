@@ -83,7 +83,7 @@ controls.addEventListener('click', function() {
 // Load the Audio
 var request = new XMLHttpRequest();
 
-request.open('GET', 'https://archive.org/details/RapeFars071-Tech-N9ne-The-Storm/01.+Godspeed.mp3', true);
+request.open('GET', 'https://ia801908.us.archive.org/28/items/RapeFars071-Tech-N9ne-The-Storm/01.%20Godspeed.mp3', true);
 request.responseType = 'blob';
 
 request.onload = function() {
